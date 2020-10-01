@@ -9,7 +9,7 @@ Criar o projeto com o comando:
 - https://github.com/trusche/httplog
 - https://github.com/rails/activeresource
 - https://github.com/savonrb/httpi
-
+- https://designer.mocky.io/
 
 BROWSER => REQUEST HTTP JSON => APP => RESPONSE HTTP JSON
 APP: REQUEST => ROUTER => CONTROLLER => VIEW => RESPONSE
